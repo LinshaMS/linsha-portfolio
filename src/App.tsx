@@ -93,24 +93,9 @@ const projects: Project[] = [
       "Browser-based data persistence",
     ],
   },
+ 
   {
     id: 4,
-    title: "Sushi",
-    subtitle: "Restaurant Website",
-    category: "Frontend",
-    description:
-      "A restaurant website exploring food presentation, page layouts, and frontend design.",
-    technologies: ["HTML", "CSS", "JavaScript"],
-    githubUrl: "https://github.com/LinshaMS/sushi-website",
-    features: [
-      "Restaurant landing page",
-      "Food-focused presentation",
-      "Navigation and page sections",
-      "Responsive layout",
-    ],
-  },
-  {
-    id: 5,
     title: "DriveEase",
     subtitle: "Car Rental Website",
     category: "Frontend",
