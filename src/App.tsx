@@ -226,13 +226,7 @@ function App() {
                 Explore my work <span>↗</span>
               </a>
 
-              <a
-                href="/resume.pdf"
-                download="Linsha_Mary_Resume.pdf"
-                className="button button-outline"
-              >
-                Download resume <span>↓</span>
-              </a>
+            
             </div>
 
             <div className="hero-socials">
